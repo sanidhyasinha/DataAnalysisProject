@@ -47,6 +47,8 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 and transactions.market_code="Mark001";`
 
 
+![SalesDashBPowerBI](https://github.com/sanidhyasinha/DataAnalysisProject/assets/105071342/919e3248-4986-4d19-8c44-7753ec1f7aa3)
+
 Data Analysis Using Power BI
 ============================
 
