@@ -46,15 +46,17 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
-
-![SalesDashBPowerBI](https://github.com/sanidhyasinha/DataAnalysisProject/assets/105071342/919e3248-4986-4d19-8c44-7753ec1f7aa3)
-
-Data Analysis Using Power BI
-============================
-
 1. Formula to create norm_amount column
 
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
+
+
+Data Analysis Using Power BI
+============================
+![SalesDashBPowerBI](https://github.com/sanidhyasinha/DataAnalysisProject/assets/105071342/919e3248-4986-4d19-8c44-7753ec1f7aa3)
+
+
+
 
 
 
