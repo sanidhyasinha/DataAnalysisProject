@@ -1,3 +1,5 @@
+#T-20 World Cup Cricket Data Analytics
+
 This project focuses on analyzing player performance data to select the top 11 players for a T20 cricket team using **Python**, **Web Scraping**, **Pandas**, and **Microsoft Power BI**.
 
 ## Project Overview
@@ -11,7 +13,7 @@ The goal of this project is to identify the best-performing players for various 
 - **Team Selection**: The dashboard helps in selecting the top 11 players, predicting a 90% chance of winning based on their performance metrics.
 
 
-![Cricket 11 Power BI ](https://github.com/user-attachments/assets/5e3998b1-21c7-49d7-ae8b-468c07d374fd)# T-20 World Cup Cricket Data Analytics
+![Cricket 11 Power BI ](https://github.com/user-attachments/assets/5e3998b1-21c7-49d7-ae8b-468c07d374fd)
 
 
 ## Technology Stack
