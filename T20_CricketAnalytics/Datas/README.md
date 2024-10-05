@@ -1,4 +1,4 @@
-###T-20 World Cup Cricket Data Analytics
+### T-20 World Cup Cricket Data Analytics
 
 This project focuses on analyzing player performance data to select the top 11 players for a T20 cricket team using **Python**, **Web Scraping**, **Pandas**, and **Microsoft Power BI**.
 
